@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\jomag\Desktop\JavaBeltExam\JavaBeltExam\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1704979481.index
+501678588.index
